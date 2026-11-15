@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Office-Document-Collaboration-CO-Authoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Office-Document-Collaboration-CO-Authoring?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Office-Document-Collaboration-CO-Authoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Office-Document-Collaboration-CO-Authoring?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Office-Document-Collaboration-CO-Authoring/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Office-Document-Collaboration-CO-Authoring?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Office-Document-Collaboration-CO-Authoring/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -114,9 +114,9 @@ Commercial, cloud-hosted office document collaboration and co-authoring suites. 
 
 ## 💻 Open-Source & Self-Hosted Software
 
-Self-hosted, community-driven, and sovereign office collaboration solutions. Listed in **descending order by GitHub star count** with real-time social badges linking directly to their stargazer pages.
+Self-hosted, community-driven, and sovereign office collaboration solutions. Listed in **descending order by GitHub Stars_Count** with real-time social badges linking directly to their stargazer pages.
 
-| Software | GitHub Stars | Tech Stack | License | Core Focus & Format Compatibility |
+| Software | GitHub_Stars | Tech Stack | License | Core Focus & Format Compatibility |
 |---|:---:|---|---|---|
 | **[AppFlowy](#-appflowy)** | [![AppFlowy Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) | Flutter / Rust | AGPL-3.0 | Sovereign, offline-first Notion & Google Docs alternative with board, grid, and document views. |
 | **[AFFiNE](#-affine)** | [![AFFiNE Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers) | TypeScript / Rust | MIT | Next-gen collaborative knowledge base unifying canvas whiteboards, docs, and tables in one workspace. |
